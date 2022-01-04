@@ -11,9 +11,10 @@ body {
     background-repeat: no-repeat;
     background-position: right;
 }
-.experience-area{
+.experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 .half-width {
     width: 50%;
